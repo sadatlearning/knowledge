@@ -2,15 +2,17 @@
 
 The **square** of a number ( x ) is the number multiplied by itself:
 
-x^2=x×x
+```
+x² = x × x
+```
 
 It is called a *square* because geometrically it represents the **area of a square** whose side length is ( x ).
 
 ### Examples:
 
-* ( 3^2 = 3 \times 3 = 9 )
-* ( (-4)^2 = (-4) \times (-4) = 16 )
-* ( 0^2 = 0 )
+- `3² = 3 × 3 = 9`
+- `(-4)² = (-4) × (-4) = 16`
+- `0² = 0`
 
 ### Important Properties:
 
@@ -39,8 +41,8 @@ x = \pm \sqrt{a}
 
 ### Examples:
 
-* ( \sqrt{9} = 3 )
-  (because ( 3^2 = 9 ))
+- `√9 = 3`  
+  (because `3² = 9`)
 
 But technically:
 

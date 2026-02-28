@@ -2,9 +2,7 @@
 
 The **square** of a number ( x ) is the number multiplied by itself:
 
-[
-x^2 = x \times x
-]
+x^2=x×x
 
 It is called a *square* because geometrically it represents the **area of a square** whose side length is ( x ).
 
